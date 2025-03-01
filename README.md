@@ -28,23 +28,35 @@ Tenadam is a health-focused social platform designed specifically for Ethiopian 
 - **Credibility Rating**: System that scores and displays user reliability based on community feedback and contribution quality.
 
 
-Google/Guest Authentication
-Create, Join community
-Community Profile (Avatar, Banner, Members)
-Edit Description and Avatar of community
-Post (link only, photo, text only)
-Displaying posts from communities user is part of
-Upvote, Downvote
-Comment
-Award the Post
-Update Karma
-Add Moderators
-Moderator- remove post
-Delete post
-User Profile (Avatar, Banner)
-Theme Switch
-Responsive UI
+- **Authentication**  
+  - Google Authentication  
+  - Guest Authentication  
 
+- **Community Features**  
+  - Create Community  
+  - Join Community  
+  - Community Profile (Avatar, Banner, Members)  
+  - Edit Community Description and Avatar  
+
+- **Post Features**  
+  - Create Post (Link only, Photo, Text only)  
+  - Display Posts from Communities User is Part of  
+  - Upvote, Downvote  
+  - Comment on Posts  
+  - Award a Post  
+  - Update Karma  
+
+- **Moderation Features**  
+  - Add Moderators  
+  - Moderator - Remove Post  
+  - Delete Post  
+
+- **User Profile**  
+  - Profile Avatar and Banner  
+
+- **UI & Experience**  
+  - Theme Switch (Light/Dark Mode)  
+  - Responsive UI
 
 ## Technologies Used
 - **Frontend**: Flutter & Dart
