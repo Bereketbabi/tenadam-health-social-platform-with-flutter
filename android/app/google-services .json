@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "839525348727",
+    "project_id": "tenadam-9ad66",
+    "storage_bucket": "tenadam-9ad66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839525348727:android:0def958fb65b9648419d72",
+        "android_client_info": {
+          "package_name": "com.example.tenadam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839525348727-u16ftvd9a9e808vv0nvhqnj7ndtg319n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tenadam",
+            "certificate_hash": "c5cd8a68d4188b8981b2dae76b4fb9aed6b678cf"
+          }
+        },
+        {
+          "client_id": "839525348727-onhbsmbm8417mg71flgnf4bmnm445eo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHWXyMc9C7Ioexx5hbYVqwq_oeiKKXVmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839525348727-onhbsmbm8417mg71flgnf4bmnm445eo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839525348727-soi6qsf11a8gg2s225otlr57ap4jv0mp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tenadam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
