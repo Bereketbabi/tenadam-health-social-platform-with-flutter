@@ -104,6 +104,3 @@ Tenadam has been successfully developed as a project with all core functionaliti
 - Integrate with local health resources and emergency services
 - Develop a verification system for health professionals
 
-## Contributors
-- BEREKET HAILAY TSIGE - Developer
-
